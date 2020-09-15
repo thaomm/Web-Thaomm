@@ -1,6 +1,6 @@
 # Web-Thaomm
  This repository is belong to Man Minh Thao.
  
- Under the collaboration of:
+ Under the collaboration of: Nguyen Duy Quang
  
  
